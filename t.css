@@ -1,0 +1,7 @@
+pre {animation:a 1s linear infinite;}
+@keyframes a{
+0%{color:rgb(0,255,0);}
+  100%{color:black;}
+
+  
+}
